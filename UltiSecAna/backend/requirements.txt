@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+dnspython
+beautifulsoup4
+python-nmap
+python-whois
+colorama
+google-generativeai
+python-dotenv
